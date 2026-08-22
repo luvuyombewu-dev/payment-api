@@ -47,3 +47,4 @@ frontend/.env.*
 .env
 application-local.properties
 application-local.ymlpayment-request.json
+docker.env
