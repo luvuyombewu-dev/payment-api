@@ -46,4 +46,4 @@ frontend/.env.*
 # =========================
 .env
 application-local.properties
-application-local.yml
+application-local.ymlpayment-request.json
