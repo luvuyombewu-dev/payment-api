@@ -1,9 +1,9 @@
 # Payment API
 
 A full‑stack payment and order management system built with **React**, **Spring Boot**, **Spring Security**, **JWT authentication**, **PostgreSQL**, **Stripe**, and **Docker**.
-<img width="400" height="400" alt="images (6)" src="https://github.com/user-attachments/assets/84a5a163-2be7-45c1-a96e-861f3d5844d4" />
-<img width="522" height="343" alt="1_NJSv6DGoKTloI8d8im98zg" src="https://github.com/user-attachments/assets/2d768326-3444-45f4-80c8-fabc75fc08b9" /><img width="554" height="554" alt="images (7)" src="https://github.com/user-attachments/assets/b1aa01bb-ee83-44b7-88ee-390c034269ec" />
-<img width="3840" height="2160" alt="Stripe-Emblem" src="https://github.com/user-attachments/assets/53e26a20-24a5-40e7-8aad-4b9201383dea" />
+<img width="40" height="40" alt="images (6)" src="https://github.com/user-attachments/assets/84a5a163-2be7-45c1-a96e-861f3d5844d4" />
+<img width="40" height="40" alt="1_NJSv6DGoKTloI8d8im98zg" src="https://github.com/user-attachments/assets/2d768326-3444-45f4-80c8-fabc75fc08b9" /><img width="40" height="40" alt="images (7)" src="https://github.com/user-attachments/assets/b1aa01bb-ee83-44b7-88ee-390c034269ec" />
+<img width="40" height="40" alt="Stripe-Emblem" src="https://github.com/user-attachments/assets/53e26a20-24a5-40e7-8aad-4b9201383dea" />
 
 
 The application provides secure user authentication, product management, shopping cart functionality, order creation, stock management, and Stripe payment processing through a modern web interface.
