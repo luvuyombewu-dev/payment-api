@@ -999,17 +999,24 @@ If a specific open‑source license is required for redistribution or commercial
 
 <img width="1251" height="587" alt="Register" src="https://github.com/user-attachments/assets/cb2b6f19-c715-40d5-9cdf-853f4d4a5556" />
 
+
 <img width="1136" height="553" alt="Login" src="https://github.com/user-attachments/assets/e8a33357-8597-4408-a1e5-d57edaa3ec99" />
+
 
 <img width="1113" height="612" alt="dashboard" src="https://github.com/user-attachments/assets/0a5b21f0-0583-4087-b476-e33905a2b61a" />
 
+
 <img width="1112" height="606" alt="Product" src="https://github.com/user-attachments/assets/8d1b1985-f579-4f38-9e46-d5ef4f8ac908" />
+
 
 <img width="1109" height="588" alt="Order" src="https://github.com/user-attachments/assets/ee3f8d2f-94cd-45c5-be20-939e950a0027" />
 
+
 <img width="1018" height="630" alt="Payment" src="https://github.com/user-attachments/assets/beef4ea8-61c4-4c78-9e79-be3211eaa495" />
 
+
 <img width="1083" height="578" alt="Stripe" src="https://github.com/user-attachments/assets/14ab16e2-42ec-44c8-b52f-59cac97833ce" />
+
 
 <img width="728" height="127" alt="backend stripe" src="https://github.com/user-attachments/assets/7d0fd22e-b96f-4084-945a-3e12856884de" />
 
