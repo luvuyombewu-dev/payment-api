@@ -26,8 +26,7 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.*;
 
 @SpringBootTest
-@AutoConfigureMockMvc(addFilters = false)(addFilters = false)
-class PaymentApiApplicationTests {
+@AutoConfigureMockMvc(addFilters = false)class PaymentApiApplicationTests {
 
     @Autowired
     private MockMvc mockMvc;
