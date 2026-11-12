@@ -42,9 +42,32 @@ frontend/.env.*
 !frontend/.env.example
 
 # =========================
-# LOCAL SECRETS
+# LOCAL ENVIRONMENT AND SECRETS
 # =========================
 .env
-application-local.properties
-application-local.ymlpayment-request.json
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
 docker.env
+**/docker.env
+
+# Local application configuration
+application-local.properties
+**/application-local.properties
+application-local.yml
+**/application-local.yml
+application-local.yaml
+**/application-local.yaml
+
+# Private keys and keystores
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# Local request/config files
+payment-request.json
